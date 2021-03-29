@@ -30,7 +30,7 @@ The install and run instructions and documentation of this project is the readme
 This project was uploaded to an EC2 hosted on AWS. For cost purposes the machine was deleted, but this document contains media files that show some tests.
 
 ## Demo
-
+[Video](https://drive.google.com/file/d/1u2Qv1CftmZG3xzWAlNee-4TrAu9bj6Rb/view?usp=sharing)
 
 ## Author
 * Angi Paola Jiménez Pira - Student at the *Colombian School of Engineering Julio Garavito.*
